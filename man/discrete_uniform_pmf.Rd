@@ -39,4 +39,8 @@ discrete_uniform_cdf(c(0, 3, 6), 1, 6)
 discrete_uniform_rnd(5, 1, 6)
 
 }
+\seealso{
+Other discrete-distributions: 
+\code{\link{poisson_pmf}()}
+}
 \concept{discrete-distributions}
