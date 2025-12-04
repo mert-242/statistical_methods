@@ -42,6 +42,7 @@ discrete_uniform_rnd(5, 1, 6)
 \seealso{
 Other discrete-distributions: 
 \code{\link{binomial_pmf}()},
+\code{\link{geometric_pmf}()},
 \code{\link{poisson_pmf}()}
 }
 \concept{discrete-distributions}
