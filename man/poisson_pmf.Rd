@@ -40,6 +40,7 @@ poisson_rnd(10, 3)
 \seealso{
 Other discrete-distributions: 
 \code{\link{binomial_pmf}()},
-\code{\link{discrete_uniform_pmf}()}
+\code{\link{discrete_uniform_pmf}()},
+\code{\link{geometric_pmf}()}
 }
 \concept{discrete-distributions}

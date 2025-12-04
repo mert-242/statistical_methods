@@ -38,6 +38,7 @@ with probability of success p. Support is \{0, 1, ..., n\}.
 \seealso{
 Other discrete-distributions: 
 \code{\link{discrete_uniform_pmf}()},
+\code{\link{geometric_pmf}()},
 \code{\link{poisson_pmf}()}
 }
 \concept{discrete-distributions}
