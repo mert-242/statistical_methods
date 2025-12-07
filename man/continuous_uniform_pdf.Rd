@@ -36,4 +36,8 @@ The continuous uniform distribution describes a variable where all values
 within the interval \code{[a, b]} are equally probable.
 Support is the interval \code{[a, b]}.
 }
+\seealso{
+Other continuous-distributions: 
+\code{\link{normal_pdf}()}
+}
 \concept{continuous-distributions}
