@@ -37,6 +37,7 @@ It is defined for \code{x >= 0}.
 \seealso{
 Other continuous-distributions: 
 \code{\link{continuous_uniform_pdf}()},
+\code{\link{fisher_f_pdf}()},
 \code{\link{normal_pdf}()},
 \code{\link{student_t_pdf}()}
 }

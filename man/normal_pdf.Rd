@@ -45,6 +45,7 @@ normal_cdf(1.96, mean = 0, sd = 1)
 Other continuous-distributions: 
 \code{\link{chi_square_pdf}()},
 \code{\link{continuous_uniform_pdf}()},
+\code{\link{fisher_f_pdf}()},
 \code{\link{student_t_pdf}()}
 }
 \concept{continuous-distributions}
