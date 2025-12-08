@@ -8,8 +8,8 @@
 #' Support is the set of all real numbers \code{(-Inf, Inf)}.
 #'
 #' @param x Numeric value(s) for PDF.
-#' @param q Numeric value(s) for CDF.
-#' @param df Degrees of freedom (must be > 0).
+#' @param q Numeric value(s) for CDF. q = t-value (sample mean - population mean) / (sample sd / sqrt(n))
+#' @param df Degrees of freedom (must be > 0). df = n-1
 #' @param n Number of random observations to generate.
 #'
 #' @return
