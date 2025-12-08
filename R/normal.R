@@ -5,9 +5,14 @@
 #' @details The normal distribution (Gaussian distribution) is defined by its mean and standard deviation.
 #' The standard normal distribution occurs when mu = 0 and sigma = 1.
 #' Support is the set of all real numbers \code{(-Inf, Inf)}.
+#' If the question asks for mean: 1) population variance is known -> N(population mean, (population sd / sqrt(n))),
+#' 2) population variance is unknown and n > 30 -> N(population mean, sample sd / sqrt(n)),
+#' The question asks for proportions : N(p, sqrt( (p * (1-p) ) / n) )
+#' 
+#' 
 #'
 #' @param x Numeric value(s) for PDF (density).
-#' @param q Numeric value(s) for CDF.
+#' @param q Numeric value(s) for CDF. 
 #' @param mean The mean (mu) of the distribution (default = 0).
 #' @param sd The standard deviation (sigma) of the distribution (must be > 0, default = 1).
 #' @param n Number of random observations to generate.
