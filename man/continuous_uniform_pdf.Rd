@@ -38,6 +38,7 @@ Support is the interval \code{[a, b]}.
 }
 \seealso{
 Other continuous-distributions: 
+\code{\link{chi_square_pdf}()},
 \code{\link{normal_pdf}()}
 }
 \concept{continuous-distributions}
