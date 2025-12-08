@@ -39,6 +39,7 @@ Support is the set of all real numbers \code{(-Inf, Inf)}.
 Other continuous-distributions: 
 \code{\link{chi_square_pdf}()},
 \code{\link{continuous_uniform_pdf}()},
+\code{\link{fisher_f_pdf}()},
 \code{\link{normal_pdf}()}
 }
 \concept{continuous-distributions}
