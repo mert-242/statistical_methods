@@ -43,6 +43,7 @@ normal_cdf(1.96, mean = 0, sd = 1)
 }
 \seealso{
 Other continuous-distributions: 
+\code{\link{chi_square_pdf}()},
 \code{\link{continuous_uniform_pdf}()}
 }
 \concept{continuous-distributions}
