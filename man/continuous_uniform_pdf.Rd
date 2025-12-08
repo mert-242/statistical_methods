@@ -39,6 +39,7 @@ Support is the interval \code{[a, b]}.
 \seealso{
 Other continuous-distributions: 
 \code{\link{chi_square_pdf}()},
-\code{\link{normal_pdf}()}
+\code{\link{normal_pdf}()},
+\code{\link{student_t_pdf}()}
 }
 \concept{continuous-distributions}
